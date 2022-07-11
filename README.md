@@ -67,6 +67,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojaeoh)](https://solved.ac/profile/seojaeoh)
 
+![image](https://www.codewars.com/users/SeoJaeOh/badges/large)
+
+[![LeetCode user Seojaeoh](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSeojaeoh&logo=leetcode&logoColor=yellow)](https://leetcode.com/Seojaeoh/)
+
 <!-- 어바웃 미 -->
 ## 📞About Me📞
 
