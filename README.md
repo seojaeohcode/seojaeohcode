@@ -1,10 +1,10 @@
 <div align="center">
-<!-- 이름 -->
 
-## 👋 SeoJaeOh 👋
+<!-- 이름 -->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=SeoJaeOh&fontSize=90)
 
 <!-- 신조와 힛 뱃지 -->
-## only easy was that yesterday.
+## 🔥only easy was that yesterday.🔥
 
 <div align="center">
 <p vertical-align="center">
@@ -12,10 +12,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojaeohcode&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 <!-- 기술스택 -->
+<br>
 
 ## 📚Technology Stack📚
-
-<br>
 
 ### Frontend Tool & Language<br>
 <!-- 뷰 -->
@@ -63,21 +62,24 @@
 <br>
 
 ### Status<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojaeoh&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojaeoh)](https://solved.ac/profile/seojaeoh)
+[![LeetCode user Seojaeoh](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSeojaeoh&logo=leetcode&logoColor=yellow)](https://leetcode.com/Seojaeoh/)
 
 ![image](https://www.codewars.com/users/SeoJaeOh/badges/large)
 
-[![LeetCode user Seojaeoh](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSeojaeoh&logo=leetcode&logoColor=yellow)](https://leetcode.com/Seojaeoh/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojaeoh)](https://solved.ac/profile/seojaeoh)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=seojaeohcode&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=seojaeohcode)](https://github.com/ryo-ma/github-profile-trophy)
+
+![seojaeohcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojaeohcode&show_icons=true&theme=radical)[![seojaeohcode's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seojaeohcode&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seojaeohcode)
 
 <!-- 어바웃 미 -->
 ## 📞About Me📞
 
-### Univ. : Myongji College
+### Univ. : Myongji College 
 ### Major : SoftWare Content
 ### contact : seocode0@gmail.com
 
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=footer)
 </div>
 </div>
