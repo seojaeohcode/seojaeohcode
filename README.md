@@ -79,6 +79,8 @@
 ### Univ. : Myongji College 
 ### Major : SoftWare Content
 ### contact : seocode0@gmail.com
+### MY Portfolio : https://seojaeohcode.github.io/MyProfile/html/index.html
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=footer)
 </div>
 </div>
