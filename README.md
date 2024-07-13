@@ -76,8 +76,8 @@
 <!-- 어바웃 미 -->
 ## 📞About Me📞
 
-### Univ. : Myongji College 
-### Major : SoftWare Content
+### Univ. : Chonnam Univ
+### Major : AI Convergence
 ### contact : seocode0@gmail.com
 ### MY Portfolio : https://seojaeohcode.github.io/MyProfile/html/index.html
   
