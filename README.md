@@ -1,7 +1,7 @@
 #### 🏆 Award
-* 협의회장상(Co-Data-Station 데이터과학논술대회)
+* 협의회장상 (Co-Data-Station 데이터과학논술대회)
     * [seojaeoh/Seoul_Street_Gallery](https://github.com/seojaeohcode/Seoul_Street_Gallery) - Skin Disease Diagnosis App.
-* 우수상(서울시 공공데이터 웹앱 경진대회)
+* 우수상 (서울시 공공데이터 웹앱 경진대회)
     * [seojaeoh/SID](https://github.com/seojaeohcode/SID) - Public Art Exploration & Community Bulletin Web Project.
 
 #### 🛠️ Open Source
