@@ -1,6 +1,6 @@
 #### 🎓 Education
 * 명지전문대학 소프트웨어콘텐츠과 졸업 (Unity/VR/3dsMAX)
-* 전남대학교 인공지능학부 재학
+* 전남대학교 인공지능학부 재학 (AI/Web/Mobile/Devops...)
 
 #### 🏆 Award
 * 협의회장상 (Co-Data-Station 데이터과학논술대회)
