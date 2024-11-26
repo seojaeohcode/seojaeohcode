@@ -20,7 +20,7 @@
    * [seojaeoh/BlendA](https://github.com/seojaeohcode/BlendA) - VR Bartender Job Experience Game.   
 * 호남정보보호 해커톤 참가 (CTF 지오파디 방식)
 * K-MOVE 미국 백엔드 개발자 과정 수료
-* DDC 2023 컨퍼런스 참석
+* DDC 2023
 
 #### 📜 Certificate
 * 정보처리산업기사
