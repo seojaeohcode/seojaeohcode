@@ -9,10 +9,10 @@
     * [seojaeoh/SID](https://github.com/seojaeohcode/SID) - Skin Disease Diagnosis App.
 * 우수상 (서울시 공공데이터 웹앱 경진대회)
     * [seojaeoh/Seoul_Street_Gallery](https://github.com/seojaeohcode/Seoul_Street_Gallery) - Public Art Exploration & Community Bulletin Web Project.
-* DGB 금융그룹 IT's DGB, iM Challenger()
-* 2022 산업통상자원부 Efesta 창의적종합설계 경진대회 
+* DGB 금융그룹 IT's DGB, iM Challenger (본선(예선통과))
+* 2022 산업통상자원부 Efesta 창의적종합설계 경진대회 (참가)
    * [seojaeoh/BlendA](https://github.com/seojaeohcode/BlendA) - VR Bartender Job Experience Game.   
-* 호남정보보호 해커톤 참가 (CTF 지오파디 방식)
+* 호남정보보호 해커톤 (참가) (CTF 지오파디 방식)
 
 #### 🛠️ Open Source
 
