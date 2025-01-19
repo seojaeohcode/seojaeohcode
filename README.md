@@ -16,7 +16,7 @@
 
 #### 🛠️ Open Source
 
-* [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인 Slack Bot)
+* [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인/한국정보처리학회ACK2024 발표작)
 
 #### :memo: Misc
 * 창업직썰 인턴십
