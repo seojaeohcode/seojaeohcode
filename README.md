@@ -22,7 +22,7 @@
 * 창업직썰 인턴십
 * K-MOVE 미국 백엔드 개발자 과정 수료
 * DDC 2023
-* Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-PostgreSQL-Firebase-AWS-Android-OpenCV-Electron-Localtunnel-Spring
+* Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-PostgreSQL-Firebase-AWS-Android-OpenCV-Docker-Electron-Localtunnel-Spring
 
 #### 📜 Certificate
 * 정보처리산업기사
