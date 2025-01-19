@@ -16,7 +16,7 @@
 
 #### 🛠️ Open Source
 
-* [Thegull](https://github.com/seojaeohcode/The-Gull)
+* [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인)
 
 #### :memo: Misc
 * K-MOVE 미국 백엔드 개발자 과정 수료
