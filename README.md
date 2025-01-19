@@ -19,6 +19,7 @@
 * [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인)
 
 #### :memo: Misc
+* 창업직썰 인턴십
 * K-MOVE 미국 백엔드 개발자 과정 수료
 * DDC 2023
 
