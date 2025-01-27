@@ -18,6 +18,7 @@
 #### 🛠️ Open Source
 * [GRASS] : 준비중
 * [Github-Personal-Blog-System](https://github.com/seojaeohcode/Git-Personal-Blog-System) (깃허브 액션을 활용한 블로그 포스트 시스템)
+    * [Ingeniare](https://seojaeohcode.github.io/Git-Personal-Blog-System/) - Ingeniare 공학 종합 블로그
 * [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인/한국정보처리학회ACK2024 발표작)
 
 #### :memo: Misc
