@@ -22,14 +22,17 @@
 * [Thegull](https://github.com/seojaeohcode/The-Gull) (캡스톤디자인/한국정보처리학회ACK2024 발표작)
 
 #### :memo: Misc
+* Nvidia Cuda C/C++ 가속컴퓨팅 강의 수강
 * 창업직썰 인턴십
 * K-MOVE 미국 백엔드 개발자 과정 수료
 * DDC 2023
-* Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-PostgreSQL-Firebase-AWS-Android-OpenCV-Docker-Electron-Localtunnel-Spring
 
 #### 📜 Certificate
 * 정보처리산업기사
 * 네트워크관리사 2급
 * 리눅스마스터 2급
+
+#### Tech
+Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-PostgreSQL-Firebase-AWS-Android-OpenCV-Docker-Electron-Localtunnel-Spring
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
