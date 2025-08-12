@@ -34,6 +34,7 @@
 * [A!rrange](https://github.com/seojaeohcode/Arrange) - AI 스마트 북마크 확장프로그램(지원사업 목록 : 전남대학교 클라우드 / 창업동아리 / 캡스톤)
 * [Ongasa](https://github.com/seojaeohcode/Ongasa) - 한일 가사 번안 프로젝트
 * [지역별 음식 가격 데이터분석](https://github.com/seojaeohcode/AI-System?tab=readme-ov-file)
+* 랩세미나 자료
 
 #### 🛠️ Open Source
 * [GRASS] : 준비중
@@ -62,5 +63,6 @@ Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-Postg
 #### club
 * 보안동아리 PCode(동아리원)
 * 창업동아리 차곡(회장)
+* 논문 연구회 운영
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
