@@ -57,6 +57,7 @@
 
 #### Tech
 Unity(게임창업목적+캡스톤1,2학년)-React-Django-Vue-Oculus-FLASK-PostgreSQL-Firebase-AWS-Android-OpenCV-Docker-Electron-Localtunnel-Spring
+배포해본 소프트웨어 유형
 
 #### club
 * 보안동아리 PCode(동아리원)
