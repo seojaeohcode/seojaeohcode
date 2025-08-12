@@ -2,6 +2,7 @@
 
 ### company
 * 린애자일 헝그리 AI Research(inprogress)
+* RA 연구보조 (inprogress) - SWE-bench & 악성패키지 통합 업무 
 * 창업직썰 인턴십 (1month)
 
 #### 🎓 Education
@@ -31,7 +32,8 @@
 
 #### project
 * [A!rrange](https://github.com/seojaeohcode/Arrange) - AI 스마트 북마크 확장프로그램(지원사업 목록 : 전남대학교 클라우드 / 창업동아리 / 캡스톤)
-* [Ongasa](https://github.com/seojaeohcode/Ongasa) - 한일 가사 번안 프로젝트 
+* [Ongasa](https://github.com/seojaeohcode/Ongasa) - 한일 가사 번안 프로젝트
+* [지역별 음식 가격 데이터분석](https://github.com/seojaeohcode/AI-System?tab=readme-ov-file)
 
 #### 🛠️ Open Source
 * [GRASS] : 준비중
