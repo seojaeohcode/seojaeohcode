@@ -3,7 +3,7 @@
 # 🚀 실적 및 활동 기록 (Performance & Activities)
 
 ## 💼 Experience & Internship
-- **전남대학교 SEMI 연구실** | RA 연구보조 (1 Year Complete) - *SWE-bench & 악성패키지 통합 업무*
+- **전남대학교 SEMI 연구실** | RA 연구보조 (1 Year Complete) - *SWE-bench & 악성패키지 탐지 프로젝트 통합 업무*
 - **창업직썰** | 인턴십 (1 month)
 
 ## 🎓 Education
