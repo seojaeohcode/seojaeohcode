@@ -4,7 +4,7 @@
 
 ## 💼 Experience & Internship
 - **린애자일 헝그리 AI Research** | AI Researcher (In-progress)
-- **전남대학교 SEMI 연구실** | RA 연구보조 (Complete) - *SWE-bench & 악성패키지 통합 업무*
+- **전남대학교 SEMI 연구실** | RA 연구보조 (1 Year Complete) - *SWE-bench & 악성패키지 통합 업무*
 - **창업직썰** | 인턴십 (1 month)
 
 ## 🎓 Education
