@@ -21,9 +21,9 @@
 | **교내** | **캡스톤디자인 경진대회 - 금상** | 2025. 3Q |
 | **전국** | **한국통신학회 추계학술대회 캡스톤디자인 - 창의상** | 2025. 4Q |
 | **지역** | **2025 SW중심대학 호남권 LLM 해커톤 - 장려상** | 2025. 3Q |
-| **전국** | Co-Data-Station 데이터과학논술대회 - 협의회장상 | SID Project |
-| **지역** | 서울시 공공데이터 웹앱 경진대회 - 우수상 | Seoul Street Gallery |
-| **본선** | DGB 금융그룹 IT's DGB, iM Challenger | PROG Project |
+| **전국** | **Co-Data-Station 데이터과학논술대회 - 협의회장상** | SID Project |
+| **지역** | **서울시 공공데이터 웹앱 경진대회 - 우수상** | Seoul Street Gallery |
+| **본선** | **DGB 금융그룹 IT's DGB, iM Challenger** | PROG Project |
 
 ## 📝 Research & Publications
 - **KCI 저널 채택/투고** : `A!rrange: AI 기반 스마트 북마크 관리 브라우저 확장 프로그램` (2025. 4Q)
