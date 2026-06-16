@@ -32,6 +32,7 @@
 | **교내** | **캡스톤디자인 경진대회 - 금상** | 2025. 3Q |
 | **선정** | **모두의창업 1기 선정** |  |
 | **본선** | **DGB 금융그룹 IT's DGB, iM Challenger** | PROG Project |
+| **장학** | **전문기술인재장학** | 2022 |
 
 ## 📝 Research & Publications
 
