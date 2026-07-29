@@ -75,5 +75,6 @@
 - **Competition**: 호남 정보보호 해커톤 2024, 호남 정보보호 해커톤 2025, 세종 핵테온, Hccc
 - **Clubs**: 창업동아리 '차곡'(회장), 소프트웨어중심사업단 MIMI(회장), 지식재산 동아리 '윤문'(회장), 스타트업 동아리 '상상공작소'(회원), 보안동아리 'PCode'
 - **Activity**: DDC 2023, Code Engine 2025
+- **part time job**: 근로장학(2년), 소프트웨어중심사업단 일경험 4-1학기, 창업보육센터 일경험 4-2학기
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
