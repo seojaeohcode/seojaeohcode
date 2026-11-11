@@ -65,6 +65,8 @@
 - **[atio](https://github.com/...)** : 원자적인 파일 쓰기를 지원하는 경량 Python 라이브러리 (운영 중)
 - **[Github-Personal-Blog-System](https://github.com/...)** : GitHub Actions 활용 블로그 자동화 시스템
 - **[GRASS]** : 오픈소스 프로젝트 준비 중
+- **SUDARI**
+- **PRAI**
 
 ## 🛠 Tech Stack
 
